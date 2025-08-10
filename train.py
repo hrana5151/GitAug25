@@ -1,1 +1,1 @@
-print("train a deep learning model")
+print("train a linear regression model 2")
